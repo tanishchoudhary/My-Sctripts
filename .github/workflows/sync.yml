@@ -16,10 +16,8 @@ jobs:
           FILE_PATTERNS: |-
             ^pom\.xml$
             ^test\.json$
-            ^\jenkins\/Jenkinsfile$
-            ^\src/\*$
-            ^\jenkins\/scripts\/*\.sh$
-            ^\jenkins\/scripts\/deliver\.sh$
+            ^\.github\/workflows\/env\.yml$
+            
             
             
            
