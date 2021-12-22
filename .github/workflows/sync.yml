@@ -1,7 +1,7 @@
 name: sync
 on:
   push:
-    branches:  tanishchoudhary-yoyo_1
+    branches:  main
 jobs:
   files:
     name: Files
