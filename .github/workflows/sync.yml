@@ -17,6 +17,7 @@ jobs:
             ^pom\.xml$
             ^test\.json$
             ^\.github\/workflows\/env\.yml$
+            ^Readme.md$
             
             
             
